@@ -1,6 +1,6 @@
 class Dog
   
-  #setter method - 
+  #setter method - takes in the argument and sets it equal to a variable
   def name=(dogs_name)
     @this_dogs_name = dogs_name
   end
