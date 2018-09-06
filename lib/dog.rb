@@ -5,7 +5,7 @@ class Dog
     @this_dogs_name = dogs_name
   end
   
-  #getter method - reports or reads the value of the variable
+  #getter method - reports or reads the value stored in the variable
   def name
     @this_dogs_name
   end
