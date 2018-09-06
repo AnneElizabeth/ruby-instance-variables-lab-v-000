@@ -5,7 +5,7 @@ class Dog
     @this_dogs_name = dogs_name
   end
   
-  #getter method - reports 
+  #getter method - reports or reads 
   def name
     @this_dogs_name
   end
